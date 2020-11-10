@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FahrenheitToCelsius/FahrenheitToCelsius.iml" filepath="$PROJECT_DIR$/FahrenheitToCelsius/FahrenheitToCelsius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradingSystem/GradingSystem.iml" filepath="$PROJECT_DIR$/GradingSystem/GradingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LargestOf3No/LargestOf3No.iml" filepath="$PROJECT_DIR$/LargestOf3No/LargestOf3No.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern2_3/Pattern2_3.iml" filepath="$PROJECT_DIR$/Pattern2_3/Pattern2_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Print_Pattern_a/Print_Pattern_a.iml" filepath="$PROJECT_DIR$/Print_Pattern_a/Print_Pattern_a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomNo/RandomNo.iml" filepath="$PROJECT_DIR$/RandomNo/RandomNo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factorial/factorial.iml" filepath="$PROJECT_DIR$/factorial/factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odd_even/odd_even.iml" filepath="$PROJECT_DIR$/odd_even/odd_even.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice.iml" filepath="$PROJECT_DIR$/practice.iml" />
+    </modules>
+  </component>
+</project>
