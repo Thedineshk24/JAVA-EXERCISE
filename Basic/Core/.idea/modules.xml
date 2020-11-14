@@ -11,14 +11,21 @@
       <module fileurl="file://$PROJECT_DIR$/AssignmentOp/AssignmentOp.iml" filepath="$PROJECT_DIR$/AssignmentOp/AssignmentOp.iml" />
       <module fileurl="file://$PROJECT_DIR$/BankApp/BankApp.iml" filepath="$PROJECT_DIR$/BankApp/BankApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Core.iml" filepath="$PROJECT_DIR$/Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindDayOfAnyDate/FindDayOfAnyDate.iml" filepath="$PROJECT_DIR$/FindDayOfAnyDate/FindDayOfAnyDate.iml" />
       <module fileurl="file://$PROJECT_DIR$/ForLoop/ForLoop.iml" filepath="$PROJECT_DIR$/ForLoop/ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericsInJava/GenericsInJava.iml" filepath="$PROJECT_DIR$/GenericsInJava/GenericsInJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Getter_Setters_Encapsulation/Getter_Setters_Encapsulation.iml" filepath="$PROJECT_DIR$/Getter_Setters_Encapsulation/Getter_Setters_Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/IfElse/IfElse.iml" filepath="$PROJECT_DIR$/IfElse/IfElse.iml" />
       <module fileurl="file://$PROJECT_DIR$/Logical/Logical.iml" filepath="$PROJECT_DIR$/Logical/Logical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaximumFinder/MaximumFinder.iml" filepath="$PROJECT_DIR$/MaximumFinder/MaximumFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyLinkedList/MyLinkedList.iml" filepath="$PROJECT_DIR$/MyLinkedList/MyLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorephisam/Polymorephisam.iml" filepath="$PROJECT_DIR$/Polymorephisam/Polymorephisam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProcessAPI/ProcessAPI.iml" filepath="$PROJECT_DIR$/ProcessAPI/ProcessAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Relational/Relational.iml" filepath="$PROJECT_DIR$/Relational/Relational.iml" />
       <module fileurl="file://$PROJECT_DIR$/SumOfArray/SumOfArray.iml" filepath="$PROJECT_DIR$/SumOfArray/SumOfArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TryCatch/TryCatch.iml" filepath="$PROJECT_DIR$/TryCatch/TryCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Try_Catch_Mal_URL/Try_Catch_Mal_URL.iml" filepath="$PROJECT_DIR$/Try_Catch_Mal_URL/Try_Catch_Mal_URL.iml" />
       <module fileurl="file://$PROJECT_DIR$/WhileLoop/WhileLoop.iml" filepath="$PROJECT_DIR$/WhileLoop/WhileLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/primitiveDataType/primitiveDataType.iml" filepath="$PROJECT_DIR$/primitiveDataType/primitiveDataType.iml" />
     </modules>

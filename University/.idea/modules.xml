@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort_2.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bubble_sort/Bubble_sort.iml" filepath="$PROJECT_DIR$/Bubble_sort/Bubble_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/FahrenheitToCelsius/FahrenheitToCelsius.iml" filepath="$PROJECT_DIR$/practice/FahrenheitToCelsius/FahrenheitToCelsius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/GradingSystem/GradingSystem.iml" filepath="$PROJECT_DIR$/practice/GradingSystem/GradingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/LargestOf3No/LargestOf3No.iml" filepath="$PROJECT_DIR$/practice/LargestOf3No/LargestOf3No.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/practice/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/Pattern2_3/Pattern2_3.iml" filepath="$PROJECT_DIR$/practice/Pattern2_3/Pattern2_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/Print_Pattern_a/Print_Pattern_a.iml" filepath="$PROJECT_DIR$/practice/Print_Pattern_a/Print_Pattern_a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/RandomNo/RandomNo.iml" filepath="$PROJECT_DIR$/practice/RandomNo/RandomNo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum/Sum.iml" filepath="$PROJECT_DIR$/Sum/Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/University.iml" filepath="$PROJECT_DIR$/.idea/University.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/factorial/factorial.iml" filepath="$PROJECT_DIR$/practice/factorial/factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marioScore/marioScore.iml" filepath="$PROJECT_DIR$/marioScore/marioScore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/odd_even/odd_even.iml" filepath="$PROJECT_DIR$/practice/odd_even/odd_even.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+    </modules>
+  </component>
+</project>
